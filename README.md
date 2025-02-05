@@ -3,3 +3,4 @@
 - [Тест-кейсы в QASE](https://app.qase.io/project/G9?author=254&previewMode=side&suite=328&tab=) ([PDF формат](Test_cases_mobile.pdf))
 - [Тестовый прогон в PDF](Test_run_mobile.pdf)
 - [Отчеты о дефектах в Youtrack](https://artsiomrusau.youtrack.cloud/issue/G9-1178/Mobile-App-Testing-Daria-Shlipakova) ([XLSX формат](Bug_reports_mobile.xlsx))
+- [Отчет по результатам тестирования](https://docs.google.com/spreadsheets/d/1Sgeiy62avpEV0gLiLWG6je58j7Q-wPm9sIE3SZrV1rk/edit?usp=sharing)
